@@ -104,6 +104,9 @@ PRODUCT_PACKAGES := \
     netutils-wrapper-1.0 \
     CalendarProvider \
     SyncProvider \
-    SoundRecorder
+    SoundRecorder \
+    DuckDuckGo \
+    MusicPlayerGO \
+    WallpaperPickerGoogle
 
 
